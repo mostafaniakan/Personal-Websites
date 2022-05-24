@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5d0280e-6df2-4198-ab19-69d1371ce62d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Sass File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1azMO0U7e1dMANUm81gw03AMiaQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="live" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="FirefoxRemoteDebugType">
+      <method v="2">
+        <option name="LaunchBrowser.Before.Run" />
+      </method>
+    </configuration>
+    <configuration name="index-p.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Personal site/index-p.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index-p.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5d0280e-6df2-4198-ab19-69d1371ce62d" name="Default Changelist" comment="" />
+      <created>1587733932137</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587733932137</updated>
+      <workItem from="1587733933650" duration="381000" />
+      <workItem from="1587734340324" duration="5944000" />
+      <workItem from="1587743023859" duration="7854000" />
+      <workItem from="1587799280290" duration="6103000" />
+      <workItem from="1587890288852" duration="10484000" />
+      <workItem from="1587909120397" duration="740000" />
+      <workItem from="1588013739216" duration="7022000" />
+      <workItem from="1588171756352" duration="11577000" />
+      <workItem from="1588250399048" duration="913000" />
+      <workItem from="1588280013436" duration="3716000" />
+      <workItem from="1588320170989" duration="5933000" />
+      <workItem from="1588359553512" duration="5042000" />
+      <workItem from="1588399152393" duration="1811000" />
+      <workItem from="1588401281254" duration="2594000" />
+      <workItem from="1588425893901" duration="5921000" />
+      <workItem from="1588445352415" duration="1956000" />
+      <workItem from="1588447927205" duration="4144000" />
+      <workItem from="1588452701467" duration="341000" />
+      <workItem from="1588489289949" duration="1623000" />
+      <workItem from="1588599771648" duration="880000" />
+      <workItem from="1588913201428" duration="1754000" />
+      <workItem from="1588914999175" duration="3667000" />
+      <workItem from="1588970569890" duration="8144000" />
+      <workItem from="1588999841237" duration="4332000" />
+      <workItem from="1589005293090" duration="561000" />
+      <workItem from="1589006187367" duration="389000" />
+      <workItem from="1589014906037" duration="531000" />
+      <workItem from="1589015771698" duration="1201000" />
+      <workItem from="1589269209319" duration="144000" />
+      <workItem from="1589270271883" duration="19000" />
+      <workItem from="1589281380086" duration="100000" />
+      <workItem from="1589281497918" duration="226000" />
+      <workItem from="1609691676276" duration="26000" />
+      <workItem from="1609691767856" duration="9000" />
+      <workItem from="1609691800584" duration="676000" />
+      <workItem from="1609729380420" duration="30000" />
+      <workItem from="1609729425432" duration="1802000" />
+      <workItem from="1609736620241" duration="1383000" />
+      <workItem from="1618067698221" duration="6000" />
+      <workItem from="1618069543152" duration="3000" />
+      <workItem from="1618115181467" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Personal_site$index_p_html.dat" NAME="index-p.html Coverage Results" MODIFIED="1589281576710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
